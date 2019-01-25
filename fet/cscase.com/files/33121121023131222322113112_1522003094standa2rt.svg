@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.29" height="23.706" viewBox="0 0 55 27">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="33" y="24" width="55" height="27" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Фигура_2_копия" data-name="Фигура 2 копия" class="cls-1" d="M80.122,30.474a2.6,2.6,0,1,1-2.6-2.589A2.594,2.594,0,0,1,80.122,30.474ZM77.514,24a6.4,6.4,0,0,0-4.586,1.881A6.489,6.489,0,0,0,71,30.452l-4.054,5.834a4.361,4.361,0,0,0-.5-0.029,4.788,4.788,0,0,0-2.475.688L45.589,29.538a4.861,4.861,0,1,0-4.75,5.912,4.789,4.789,0,0,0,2.475-.688l18.372,7.392a4.857,4.857,0,0,0,9.583-.555l6.24-4.571a6.56,6.56,0,0,0,6.51-6.517A6.715,6.715,0,0,0,77.514,24Zm0,2.142a4.369,4.369,0,1,1-4.363,4.374A4.372,4.372,0,0,1,77.509,26.142Zm-36.67.845A3.579,3.579,0,0,1,44,28.889a3,3,0,0,0-4.109,1.582,2.968,2.968,0,0,0,1.726,3.593A3.58,3.58,0,1,1,40.839,26.987Zm25.6,10.557A3.583,3.583,0,1,1,63.274,42.8a3.12,3.12,0,0,0,3.861-.679,3.181,3.181,0,0,0-1.473-4.5A5.1,5.1,0,0,1,66.436,37.543Z" transform="translate(-33 -24)"/>
+</svg>
